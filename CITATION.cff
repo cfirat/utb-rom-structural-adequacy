@@ -6,7 +6,7 @@ authors:
   - family-names: Firat
     given-names: Coskun
     orcid: "https://orcid.org/0000-0002-2853-8940"
-repository-code: "https://github.com/YOUR_USERNAME/utb-rom-structural-adequacy"
+repository-code: "https://github.com/cfirat/utb-rom-structural-adequacy"
 abstract: >
   This repository contains the corrected reduced-order modelling workflow for
   evaluating one-state, cascade two-state, and physically coupled two-state
