@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Code and workflow for structural adequacy of reduced-order models for underground thermal battery dynamics"
+message: "If you use this software, please cite the associated manuscript and archived Zenodo release."
+type: software
+authors:
+  - family-names: Firat
+    given-names: Coskun
+    orcid: "https://orcid.org/0000-0002-2853-8940"
+repository-code: "https://github.com/YOUR_USERNAME/utb-rom-structural-adequacy"
+abstract: >
+  This repository contains the corrected reduced-order modelling workflow for
+  evaluating one-state, cascade two-state, and physically coupled two-state
+  ROMs for a public high-fidelity underground thermal battery benchmark.
+  The workflow includes common-grid preprocessing, spectral and autocorrelation
+  diagnostics, differential-evolution calibration, temporal holdout evaluation,
+  and manuscript-ready table and figure generation.
+keywords:
+  - reduced-order modelling
+  - underground thermal battery
+  - thermal energy storage
+  - fast-slow dynamics
+  - coupled state-space model
+  - benchmark
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-27"
